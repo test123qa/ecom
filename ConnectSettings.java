@@ -18,6 +18,7 @@ public class ConnectSettings {
 		static String channel = "MOSAIC.SVRCONN";
 		static int port = 30011;
 		static String userid = "mosaicmq";
+		static String name = "Jai";
 	}
 	
 	public static class lime {

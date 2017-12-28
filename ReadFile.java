@@ -23,6 +23,7 @@ public static ArrayList<String> readtxtAsList(String fileName) throws ParserConf
 		list.add(line);
 		line = br.readLine();
 		}
+		break;
 
 	} finally {
 		br.close();

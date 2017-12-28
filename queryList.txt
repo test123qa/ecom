@@ -1,3 +1,4 @@
 insert into employee(empid, name, sal) values(13,"Ravi",2000);
 insert into employee(empid, name, sal) values(14,"Ravi",2000);
 select * from employee;
+Select empid from employee;
